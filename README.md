@@ -17,7 +17,7 @@ I'm an IT support technician with 3+ years of experience desktop support, and 1 
 - Google Cybersecurity Professional  
 - CompTIA Network+ and CompTIA Security+ (In Progress, April 2025)  
 
-🌐 **LinkedIn**: [linkedin.com/in/andrewbatista31]([https://linkedin.com/in/andrewbatista31](https://www.linkedin.com/in/andrew-batista-727028214/)])
+🌐 **LinkedIn**: [linkedin.com/in/andrew-batista-727028214](https://www.linkedin.com/in/andrew-batista-727028214)
 📧 **Email**: [apbat31@gmail.com](mailto:apbat31@gmail.com)  
 
 ---
