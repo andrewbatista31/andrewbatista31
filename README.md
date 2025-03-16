@@ -53,8 +53,8 @@ I'm an IT support technician with 3+ years of experience desktop support, and 1 
 ---
 
 ### Let's Connect!
-I'm excited to contribute to IT support teams in Chicago and grow my career in tech. Feel free to reach out for collaboration, feedback, or opportunities:  
-- LinkedIn: [linkedin.com/in/andrewbatista31](https://linkedin.com/in/andrewbatista31)  
-- Email: [your.email@gmail.com](mailto:your.email@gmail.com)  
+I'm excited to contribute to IT support teams and grow my career in tech. Feel free to reach out for collaboration, feedback, or opportunities:  
+🌐 **LinkedIn**: [linkedin.com/in/andrew-batista-727028214](https://www.linkedin.com/in/andrew-batista-727028214)
+📧 **Email**: [apbat31@gmail.com](mailto:apbat31@gmail.com)  
 
 🚀 **Open to IT support roles in Chicago – let's optimize IT processes and enhance security together!**
