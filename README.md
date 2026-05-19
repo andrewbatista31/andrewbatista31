@@ -23,15 +23,20 @@ I'm an IT support technician with 3+ years of experience desktop support, and 1 
 ---
 
 ### Featured Projects
+- **[IP Scanner](https://github.com/andrewbatista31/ipscanner)**:  
+  Modern Windows rewrite of Angry IP Scanner with an updated UI — concurrent ICMP ping, reverse DNS, TCP port probing, and NetBIOS name discovery. Native Excel export and clickable IPs that open the device in your browser.  
+  - **Technologies**: Rust (Tauri), Svelte, TailwindCSS, Tokio  
+  - **Key Features**: Streams results live, smart https/http URL picking, NetBIOS computer name lookup, NSIS installer  
+
+- **[Helpdesk Ticketing System](https://github.com/andrewbatista31/helpdesk)**:  
+  Self-hosted ticketing system for a small IT team — single-file Flask app with public submission form, staff dashboard, calendar, and recurring ticket schedules. No JS framework, no ORM, no Docker.  
+  - **Technologies**: Python, Flask, SQLite, bcrypt, vanilla HTML/CSS  
+  - **Key Features**: Staff dashboard with aging widget, embedded month-grid calendar, recurring schedules via background scheduler, secure bcrypt-hashed staff auth  
+
 - **[Automated Onboarding Script](https://github.com/andrewbatista31/Automated-Onboarding-Script)**:  
   Built a PowerShell script to automate AD user creation, home directory setup, and welcome emails, reducing manual work for IT support teams.  
   - **Technologies**: PowerShell, Active Directory, SMTP  
   - **Key Features**: Error handling, logging, email notifications  
-
-- **[Ticket System (GLPI) Deployment](https://github.com/andrewbatista31/Ticket-System-GLPI)**:  
-  Researched, vetted, and deployed a company-wide support ticket system (GLPI) for 300+ employees, improving IT request tracking and management.  
-  - **Technologies**: GLPI, Local Server Hosting, CMMC Compliance  
-  - **Key Features**: Hosted on a local server, improved ticket tracking  
 
 - **[Facility Security System](https://github.com/andrewbatista31/Facility-Security-System)**:  
   Engineered a security solution with IP cameras, door strikes, and card readers, enhancing surveillance coverage by 50% and improving incident response time.  
