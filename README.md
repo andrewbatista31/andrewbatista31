@@ -3,6 +3,7 @@
 I'm an IT support technician with 3+ years of experience desktop support, network management, Active Directory, virtualization. I'm passionate about automating IT processes, creating easy to use tools, optimizing networks, and enhancing security.
 
 🔧 **Skills**:  
+- **AI**: Extensive personal experience building projects and passion ideas using AI coding tools
 - **Networks/Infrastructure**: DNS/DHCP, VLAN Configuration, SonicWall Firewalls, Port Connectivity  
 - **Virtualization/Cloud**: VMware, Microsoft Azure, Azure Active Directory  
 - **Programming Languages**: C++, Java, JavaScript  
@@ -15,7 +16,9 @@ I'm an IT support technician with 3+ years of experience desktop support, networ
 📜 **Certifications**:  
 - ICAgile Certified Professional  
 - Google Cybersecurity Professional  
-- CompTIA Network+ and CompTIA Security+ (In Progress, April 2025)  
+- CompTIA Network+ and CompTIA Security+ (In Progress, April 2025)
+- Google Cybersecurity Training
+- Artificial Intelligence Cybersecurity Professional
 
 🌐 **LinkedIn**: [linkedin.com/in/andrew-batista-727028214](https://www.linkedin.com/in/andrew-batista-727028214)
 📧 **Email**: [apbat31@gmail.com](mailto:apbat31@gmail.com)  
@@ -38,28 +41,7 @@ I'm an IT support technician with 3+ years of experience desktop support, networ
   - **Technologies**: PowerShell, Active Directory, SMTP  
   - **Key Features**: Error handling, logging, email notifications  
 
-- **[Facility Security System](https://github.com/andrewbatista31/Facility-Security-System)**:  
-  Engineered a security solution with IP cameras, door strikes, and card readers, enhancing surveillance coverage by 50% and improving incident response time.  
-  - **Technologies**: IP Cameras, Door Strikes, Card Readers, Network Configuration  
-  - **Key Features**: Increased coverage, faster incident response  
-
 - **[Course Planning Application (CSE Capstone)](https://github.com/andrewbatista31/Course-Planning-Application)**:  
   Developed a course planning application for Miami University's CSE department, selected as the top project for potential university implementation.  
   - **Technologies**: PostgreSQL, JavaScript, Relational Database Design  
   - **Key Features**: 3 user views (student, administrator, advisor), database architecture  
-
----
-
-### What I'm Working On
-- Completing CompTIA Network+ and Security+ certifications to expand my expertise in networking and cybersecurity.  
-- Learning Git for version control to manage my projects more effectively.  
-- Exploring advanced Azure features for cloud-based IT support solutions.  
-
----
-
-### Let's Connect!
-I'm excited to contribute to IT support teams and grow my career in tech. Feel free to reach out for collaboration, feedback, or opportunities:  
-🌐 **LinkedIn**: [linkedin.com/in/andrew-batista-727028214](https://www.linkedin.com/in/andrew-batista-727028214)
-📧 **Email**: [apbat31@gmail.com](mailto:apbat31@gmail.com)  
-
-🚀 **Open to IT support roles in Chicago – let's optimize IT processes and enhance security together!**
