@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Batista 👋
 
-I'm an IT support technician with 3+ years of experience desktop support, network management, Active Directory, virtualization. I'm passionate about automating IT processes, creating easy to use tools, optimizing networks, and enhancing security.
+I'm an IT support technician with several years of experience desktop support. I'm passionate about automating IT processes and creating easy to use tools.
 
 🔧 **Skills**:  
 - **AI**: Extensive personal experience building projects and passion ideas using AI coding tools
