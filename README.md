@@ -4,7 +4,6 @@ I'm an IT support technician with several years of experience desktop support. I
 
 🔧 **Skills**:  
 - **AI**: Extensive personal experience building projects and passion ideas using AI coding tools
-- **Networks/Infrastructure**: DNS/DHCP, VLAN Configuration, SonicWall Firewalls, Port Connectivity  
 - **Virtualization/Cloud**: VMware, Microsoft Azure, Azure Active Directory  
 - **Programming Languages**: C++, Java, JavaScript  
 - **Databases/Reporting**: SQL, NoSQL, Crystal Reports  
