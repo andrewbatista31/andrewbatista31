@@ -15,7 +15,7 @@ I'm an IT support technician with several years of experience desktop support. I
 📜 **Certifications**:  
 - ICAgile Certified Professional  
 - Google Cybersecurity Professional  
-- CompTIA Network+ and CompTIA Security+ (In Progress, April 2025)
+- CompTIA Network+
 - Google Cybersecurity Training
 - Artificial Intelligence Cybersecurity Professional
 
