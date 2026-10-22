@@ -1,6 +1,6 @@
 # Andrew Batista
 
-Junior software developer at Princeton Precision Group, based in Northeast Ohio.
+Junior software developer at Finit Solutions, based in Northeast Ohio.
 
 I build desktop apps, internal tools and games, mostly in Rust, TypeScript, Python and C#, with a lot of help from AI coding tools. I came up through IT support, so I like software that saves people time.
 
