@@ -1,61 +1,33 @@
-# Hi, I'm Andrew Batista 👋
+# Andrew Batista
 
-I'm an IT support technician with several years of desktop support experience, based in Northeast Ohio. I'm passionate about automating IT processes and building easy-to-use tools — and lately, building games and desktop apps from scratch with AI-assisted development.
+Junior software developer at Princeton Precision Group, based in Northeast Ohio.
 
-🔧 **Skills**:  
-- **Languages**: Rust, Python, TypeScript/JavaScript, C#, PowerShell, SQL (also C++, Java)  
-- **Frameworks & Tools**: Tauri, Svelte, TailwindCSS, Flask, Unity, Pygame, Node.js  
-- **AI**: Extensive hands-on experience building projects with AI coding tools  
-- **Virtualization/Cloud**: VMware, Microsoft Azure, Azure Active Directory  
-- **Databases/Reporting**: PostgreSQL, SQLite, NoSQL, Crystal Reports  
-- **IT Support**: Active Directory, Help Desk, User Account Management, Hardware/Software Troubleshooting  
+I build desktop apps, internal tools and games, mostly in Rust, TypeScript, Python and C#, with a lot of help from AI coding tools. I came up through IT support, so I like software that saves people time.
 
-🎓 **Education**:  
-- Bachelor of Science in Computer Science, Miami University 
+### Stack
 
-📜 **Certifications**:  
-- ICAgile Certified Professional  
-- Google Cybersecurity Professional  
-- CompTIA Network+  
-- Google Cybersecurity Training  
-- Artificial Intelligence Cybersecurity Professional  
+**Languages:** Rust · TypeScript / JavaScript · Python · C# · SQL · PowerShell  
+**Frameworks:** Tauri · Svelte · Tailwind · Node.js · Flask · Unity  
+**Data & infra:** PostgreSQL · SQLite · Redis · Azure · Active Directory
 
-🌐 **LinkedIn**: [linkedin.com/in/andrew-batista-727028214](https://www.linkedin.com/in/andrew-batista-727028214)  
-📧 **Email**: [apbat31@gmail.com](mailto:apbat31@gmail.com)  
+### Projects
 
----
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [chess-engine](https://github.com/andrewbatista31/chess-engine) | Desktop chess app with a from-scratch bitboard engine (perft-validated) plus Stockfish | Rust, Tauri, Svelte |
+| [ipscanner](https://github.com/andrewbatista31/ipscanner) | A modern take on Angry IP Scanner: concurrent ping, reverse DNS, port probes, NetBIOS names | Rust, Tokio, Tauri, Svelte |
+| [helpdesk](https://github.com/andrewbatista31/helpdesk) | Self-hosted ticketing for a small IT team: dashboard, calendar, recurring tickets | Python, Flask, SQLite |
+| [stratego](https://github.com/andrewbatista31/stratego) | Two-player Stratego with no game engine | Python, Pygame |
+| [Automated-Onboarding-Script](https://github.com/andrewbatista31/Automated-Onboarding-Script) | AD accounts, home folders and welcome emails in one run | PowerShell |
 
-### Featured Projects
+### Currently building
 
-- **[Chess Engine](https://github.com/andrewbatista31/chess-engine)**:  
-  Desktop chess app with a from-scratch Rust engine and Stockfish integration.  
-  - **Technologies**: Rust, Tauri, Svelte  
-  - **Key Features**: Bitboard move generation validated with perft, FEN/PGN load and save, undo/redo, per-side engine picker (Human or Stockfish skill 0–20), live eval bar with top-3 candidate moves  
+- **A Total War-style siege game.** Thousands of soldiers simulated with Unity's Burst jobs and GPU instancing, procedurally planned Roman and Gallic towns, and sieges with rams, towers and ladders. It's private for now. *(Unity, C#)*
+- **Realm.** A server-authoritative 4X strategy game set in the Roman Republic. *(TypeScript, PostgreSQL, Redis)*
 
-- **[IP Scanner](https://github.com/andrewbatista31/ipscanner)**:  
-  Modern Windows rewrite of Angry IP Scanner with an updated UI — concurrent ICMP ping, reverse DNS, TCP port probing, and NetBIOS name discovery. Native Excel export and clickable IPs that open the device in your browser.  
-  - **Technologies**: Rust (Tauri), Svelte, TailwindCSS, Tokio  
-  - **Key Features**: Streams results live, smart https/http URL picking, NetBIOS computer name lookup, NSIS installer  
+### Background
 
-- **[Helpdesk Ticketing System](https://github.com/andrewbatista31/helpdesk)**:  
-  Self-hosted ticketing system for a small IT team — single-file Flask app with public submission form, staff dashboard, calendar, and recurring ticket schedules. No JS framework, no ORM, no Docker.  
-  - **Technologies**: Python, Flask, SQLite, bcrypt, vanilla HTML/CSS  
-  - **Key Features**: Staff dashboard with aging widget, embedded month-grid calendar, recurring schedules via background scheduler, secure bcrypt-hashed staff auth  
+- B.S. Computer Science, Miami University. My capstone, a course-planning app for the CSE department, was picked as the top project.
+- CompTIA Network+, Google Cybersecurity Professional, ICAgile Certified Professional, AI Cybersecurity Professional.
 
-- **[Stratego](https://github.com/andrewbatista31/stratego)**:  
-  Two-player hot-seat version of the classic board game, built from scratch in Python with Pygame — no game engine.  
-  - **Technologies**: Python, Pygame  
-
-- **[Automated Onboarding Script](https://github.com/andrewbatista31/Automated-Onboarding-Script)**:  
-  PowerShell script that automates AD user creation, home directory setup, and welcome emails, reducing manual work for IT support teams.  
-  - **Technologies**: PowerShell, Active Directory, SMTP  
-  - **Key Features**: Error handling, logging, email notifications  
-
-### In Development
-
-- **Antiquity Battles** *(Unity, C#)*: A historical strategy game set in the Roman–Gallic era — a campaign map with procedurally laid-out Roman and Gallic towns, gates and road networks, coastlines and water, a living world of herds and townsfolk, and a dynamic battle soundscape.  
-- **Realm** *(TypeScript, PostgreSQL, Redis)*: A server-authoritative 4X strategy game set in the Roman Republic with three playable cultures.  
-
-### Earlier Work
-
-- **Course Planning Application (CSE Capstone)**: Course planning application for Miami University's CSE department, selected as the top project for potential university implementation. Built with PostgreSQL and JavaScript, with three user views (student, administrator, advisor).  
+[LinkedIn](https://www.linkedin.com/in/andrew-batista-727028214) · [Email](mailto:apbat31@gmail.com)
